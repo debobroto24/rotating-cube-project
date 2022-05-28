@@ -873,3 +873,7 @@
 1526093414 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\gl\glu.h
 	<GL/gl.h>
 
+1653752377 source:i:\spring 22 class\cgm\cgm project\rotating cube\main.cpp
+	<windows.h>
+	<GL/glut.h>
+

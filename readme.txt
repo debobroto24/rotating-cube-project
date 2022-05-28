@@ -32,8 +32,10 @@ Contact:
 	Id: 182-115-005
 	Email: devdb017@gmail.com
 
-Download link: 
+Project download link: 
 	[https://github.com/dev123-oss/rotating-cube-project]
+
+Demo gif : [https://github.com/dev123-oss/rotating-cube-project/blob/master/Rotating%20cube.gif]
 
 
 	
